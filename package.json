@@ -1,6 +1,17 @@
 {
+  "homepage": "https://em-it.github.io/markdown-previewer/",
   "name": "markdown-previewer",
   "version": "0.1.0",
+  "author": {
+    "name": "EmIT",
+    "email": "Emad.Armoun@gmail.com",
+    "url": "http://www.EmadArmoun.com"
+  },
+  "keywords": [
+    "Markdown-Previewer",
+    "Emad",
+    "EmIT"
+  ],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
