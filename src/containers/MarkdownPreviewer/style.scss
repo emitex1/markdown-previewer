@@ -1,0 +1,22 @@
+.box {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  margin: 15px auto;
+}
+
+#text-area-box {
+  display: flex;
+  flex-direction: column;
+  color: #9E9E9E;
+  
+  textarea {
+    margin-top: 15px;
+    border: none;
+    box-shadow: 0px 1px 6px #BDBDBD;
+  }
+}
+
+#preview-box {
+  min-width: 800px;
+}

@@ -1,7 +1,7 @@
 /* eslint-disable no-useless-concat */
 import { useState } from "react";
 import marked from "marked";
-//import "./style.scss";
+import "./style.scss";
 
 const defaultText = "# Emad Armoun" + "\r\n" +
   "## Full-stack JavaScript Developer" + "\r\n" +
